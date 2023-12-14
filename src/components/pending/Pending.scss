@@ -1,0 +1,19 @@
+.pending {
+  display: flex;
+  margin-top: 15px;
+  &__amount {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 3px;
+    flex-grow: 1;
+    padding: 10px;
+    color: grey;
+  }
+  &__clear {
+    background-color: #8f4de6;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 18%;
+  }
+}

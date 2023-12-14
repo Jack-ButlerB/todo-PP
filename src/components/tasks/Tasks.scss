@@ -1,5 +1,5 @@
 .listTodo {
-  margin-top: 30px;
+  margin-top: 20px;
   &__row {
     display: flex;
     margin-bottom: 20px;
@@ -13,7 +13,6 @@
 
     font-family: Arial, Helvetica, sans-serif;
     flex-grow: 1;
-    text-align: left;
     padding: 15px;
     font-family: "Courier New", Courier, monospace;
     font-size: 20px;
